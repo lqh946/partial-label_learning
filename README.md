@@ -1,12 +1,8 @@
-# partial-label_learning
+# Partial-Label_learning
 
 ```
 A curated list of most recent papers & codes in Learning with Partial/Complementary Labels
 ```
-
-## Competition
-
-To be continued...
 
 ## Content
 
@@ -27,13 +23,13 @@ Real-World partial-label benchmarks:
 
 | Dataset            | Website                                            | Paper       |
 | ------------------ | -------------------------------------------------- | ----------- |
-| FG-NET data        | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]]() |
-| Lost data          | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]]() |
-| MSRCv2 data        | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]]() |
-| BirdSong data      | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]]() |
-| Soccer Player data | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]]() |
-| Yahoo! News        | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]]() |
-| Mirflicker data    | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]]() |
+| FG-NET data        | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-16181-5_56) |
+| Lost data          | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]](https://www.jmlr.org/papers/volume12/cour11a/cour11a.pdf?ref=https://githubhelp.com) |
+| MSRCv2 data        | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2012/file/aaebdb8bb6b0e73f6c3c54a0ab0c6415-Paper.pdf) |
+| BirdSong data      | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]](https://dl.acm.org/doi/abs/10.1145/2339530.2339616) |
+| Soccer Player data | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]](https://openaccess.thecvf.com/content_cvpr_2013/papers/Zeng_Learning_by_Associating_2013_CVPR_paper.pdf) |
+| Yahoo! News        | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-15549-9_46) |
+| Mirflicker data    | [[Download link]](http://palm.seu.edu.cn/zhangml/) | [[Paper]](https://dl.acm.org/doi/abs/10.1145/1460096.1460104) |
 
 Leaderboard, To be continued...
 
