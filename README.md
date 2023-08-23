@@ -204,12 +204,12 @@ Leaderboard, To be continued...
 
 ### Journal
 
-- **[TPAMI]** (http://palm.seu.edu.cn/) Adaptive graph guided disambiguation for partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b.pdf)[[Supplement]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b-Supplement.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tpami21b)
+- **[TPAMI]** Adaptive graph guided disambiguation for partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b.pdf)[[Supplement]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b-Supplement.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tpami21b)
 - **[TPAMI]** Deep Partial Multi-View Learning.
-- **[TKDD]** (http://palm.seu.edu.cn/) Disambiguation enabled linear discriminant analysis for partial label dimensionality reduction. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TKDD'21b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tkdd21b)
+- **[TKDD]**  Disambiguation enabled linear discriminant analysis for partial label dimensionality reduction. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TKDD'21b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tkdd21b)
 - **[TNNLS]** Biased Complementary-Label Learning Without True Labels.
 - **[Pattern Recognition]** Multi-Complementary and Unlabeled Learning for Arbitrary Losses and Models.
-- **[Machine Learning]** (http://palm.seu.edu.cn/)Partial label learning with emerging new labels.
+- **[Machine Learning]** Partial label learning with emerging new labels.
 - **[AI]** Distributed Semi-supervised Partial Label Learning Over Networks.
 - [**Neurocomputing**] Learning with Proper Partial Labels.
 - **[Information Sciences]** Dlsa: Semi-supervised partial label learning via dependence-maximized label set assignment.
@@ -222,63 +222,89 @@ Leaderboard, To be continued...
 
 ------
 
-### NeurIPS'21
+### NeurIPS
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Instance-Dependent Partial Label Learning. (oral) [[Paper]](http://palm.seu.edu.cn/zhangml/files/NeurIPS'21b.pdf)[[Appendix]](http://palm.seu.edu.cn/zhangml/files/Appendix_NeurIPS'21b.pdf)[[Code]](https://github.com/palm-ml/valen)
+- Instance-Dependent Partial Label Learning. (oral) [[Paper]](http://palm.seu.edu.cn/zhangml/files/NeurIPS'21b.pdf)[[Appendix]](http://palm.seu.edu.cn/zhangml/files/Appendix_NeurIPS'21b.pdf)[[Code]](https://github.com/palm-ml/valen)
 - Understanding Partial Multi-label Learning via Mutual Information. [[Paper]](https://proceedings.neurips.cc/paper/2021/file/217c0e01c1828e7279051f1b6675745d-Paper.pdf)
 
 ------
 
-### KDD'21
+### KDD
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Partial label dimensionality reduction via confidence-based dependence maximization. [[Paper]](http://palm.seu.edu.cn/zhangml/files/KDD'21a.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#kdd21a)
+- Partial label dimensionality reduction via confidence-based dependence maximization. [[Paper]](http://palm.seu.edu.cn/zhangml/files/KDD'21a.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#kdd21a)
 - Partial Multi-Label Learning with Meta Disambiguation. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467259)
 
 ------
 
-### ICML'21
+### ICASSP
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Discriminative complementary-label learning with weighted loss. [[Paper]](http://palm.seu.edu.cn/zhangml/files/ICML21'b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml21b)
+- On the power of deep but naive partial label learning. [[Paper]](https://arxiv.org/pdf/2010.11600.pdf)[[Code]](https://github.com/mikigom/DNPL-PyTorch)
+
+------
+
+### ICLR
+
+- Pico: Contrastive label disambiguation for partial label learning. [[Paper]](https://openreview.net/pdf?id=EhYjZy6e1gJ)[[Code]](https://github.com/hbzju/pico)
+
+------
+
+### ICML
+
+- Discriminative complementary-label learning with weighted loss. [[Paper]](http://palm.seu.edu.cn/zhangml/files/ICML21'b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml21b)
 - Leveraged Weighted Loss for Partial Label Learning. [[Paper]](http://proceedings.mlr.press/v139/wen21a/wen21a.pdf)[[Supplement]](http://proceedings.mlr.press/v139/wen21a/wen21a-supp.pdf)
 
 ------
 
-### CIKM'21
+### CIKM
 
 - Detecting the Fake Candidate Instances: Ambiguous Label Learning with Generative Adversarial Networks
 
 ------
 
-### IJCAI'21
+### IJCAI
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Learning from complementary labels via partial-output consistency regularization. [[Paper]](http://palm.seu.edu.cn/zhangml/files/IJCAI'21a.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#ijcai21a)
+- Learning from complementary labels via partial-output consistency regularization. [[Paper]](http://palm.seu.edu.cn/zhangml/files/IJCAI'21a.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#ijcai21a)
 - Few-Shot Partial-Label Learning. [[Paper]](https://www.ijcai.org/proceedings/2021/0475.pdf)
 
 ------
 
-### CVPR'21
+### CVPR
 
 - Joint Negative and Positive Learning for Noisy Labels. [[Paper]](https://arxiv.org/pdf/2104.06574.pdf)
 
 ------
 
-### AAAI'21
+### AAAI
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Exploiting unlabeled data via partial label assignment for multi-class semi-supervised learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/AAAI'21b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#aaai21b)
+- Exploiting unlabeled data via partial label assignment for multi-class semi-supervised learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/AAAI'21b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#aaai21b)
 - Adversarial Partial Multi-Label Learning with Label Disambiguation. [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-8358.YanY.pdf)
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Learning from Noisy Labels with Complementary Loss Functions. [[Paper]](http://palm.seu.edu.cn/zhangml/)
+- Learning from Noisy Labels with Complementary Loss Functions. [[Paper]](http://palm.seu.edu.cn/zhangml/)
+
+------
+
+### IEEE
+
+- Top-k Partial Label Machine.
+- Discriminative Metric Learning for Partial Label Learning.
+- GM-PLL: Graph Matching Based Partial Label Learning.
+- LogClass: Anomalous Log Identification and Classification With Partial Labels.
+- State-Consistency Loss for Learning Spatial Perception Tasks From Partial Labels.
+- Extending Ordinary-Label Learning Losses to Complementary-Label Learning.
+- Learning From a Complementary-Label Source Domain: Theory and Algorithms. [[Code]](https://github.com/Yiyang98/BFUDA)
+- Complementary Learning-Based Scene Classification of Remote Sensing Images With Noisy Labels.
+- GAN-CL: Generative Adversarial Networks for Learning From Complementary Labels.
 
 ------
 
 ### Journal
 
-- **[TPAMI]** [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Partial multi-label learning via credible label elicitation. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TPAMI'20.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tpami20)
+- **[TPAMI]** Partial multi-label learning via credible label elicitation. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TPAMI'20.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tpami20)
 - **[TPAMI]** Partial Multi-Label Learning with Noisy Label Identification. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9354590)
 
 - **[TNNLS]** Top-k Partial Label Machine. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9447152)
 - **[TNNLS]** Learning From a Complementary-Label Source Domain: Theory and Algorithms. [[Paper]](https://arxiv.org/pdf/2008.01454.pdf)
 - **[TNNLS]** Discriminative Metric Learning for Partial Label Learning.
-- **[TNNLS]** [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Progressive enhancement of label distributions for partial multilabel learning.
+- **[TNNLS]** Progressive enhancement of label distributions for partial multilabel learning.
 
 - **[TMM]** Generalized Large Margin kNN for Partial Label Learning. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529072)
 - **[TMM]** Global-Local Label Correlation for Partial Multi-Label Learning. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343691)
@@ -293,38 +319,51 @@ Leaderboard, To be continued...
 
 ------
 
-### NeruIPS'20
+### PMLR
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Semi-supervised partial label learning via confidence-rated margin maximization. [[Paper]](http://palm.seu.edu.cn/zhangml/files/NeurIPS'20.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#neurips20)
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Provably Consistent Partial-Label Learning. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)[[Code]](https://lfeng-ntu.github.io/Codes/RCCC.zip)
-
-------
-
-### KDD'20
-
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Feature-induced manifold disambiguation for multi-view partial multi-label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/KDD'20.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#kdd20)
+- Progressive Identification of True Labels for Partial-Label Learning. [[Paper]](https://proceedings.mlr.press/v119/lv20a.html)[[Code]](https://github.com/Lvcrezia77/PRODEN)
 
 ------
 
-### ICML'20
+### IEEE
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Progressive Identification of True Labels for Partial-Label Learning. [[Paper]](https://proceedings.mlr.press/v119/lv20a.html)[[Code]](https://github.com/Lvcrezia77/PRODEN)
+- A Self-Paced Regularization Framework for Partial-Label Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9094702)
+- On the Power of Deep but Naive Partial Label Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9414927)[[Code]](https://github.com/mikigom/DNPL-PyTorch)
+
+------
+
+### NeruIPS
+
+- Semi-supervised partial label learning via confidence-rated margin maximization. [[Paper]](http://palm.seu.edu.cn/zhangml/files/NeurIPS'20.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#neurips20)
+- Provably Consistent Partial-Label Learning. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/7bd28f15a49d5e5848d6ec70e584e625-Paper.pdf)[[Code]](https://lfeng-ntu.github.io/Codes/RCCC.zip)
+
+------
+
+### KDD
+
+- Feature-induced manifold disambiguation for multi-view partial multi-label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/KDD'20.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#kdd20)
+
+------
+
+### ICML
+
+- Progressive Identification of True Labels for Partial-Label Learning. [[Paper]](https://proceedings.mlr.press/v119/lv20a.html)[[Code]](https://github.com/Lvcrezia77/PRODEN)
 - Bridging Ordinary-Label Learning and Complementary-Label Learning. [[Paper]](https://arxiv.org/pdf/2002.02158.pdf)
 - Unbiased Risk Estimators Can Mislead: A Case Study of Learning with Complementary Labels. [[Paper]](https://arxiv.org/pdf/2007.02235.pdf)
 - Learning with Multiple Complementary Labels. [[Paper]](https://arxiv.org/pdf/1912.12927.pdf)
 
 ------
 
-### IJCAI'20
+### IJCAI
 
 - Partial Multi-Label Learning via Multi-Subspace Representation. [[Paper]](https://www.ijcai.org/proceedings/2020/0362.pdf)
 - Learning From Multi-Dimensional Partial Labels.
 
 ------
 
-### AAAI'20
+### AAAI
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Multi-view partial multi-label learning with graph-based disambiguation. [[Paper]](http://palm.seu.edu.cn/zhangml/files/AAAI'20b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#aaai20b)
+- Multi-view partial multi-label learning with graph-based disambiguation. [[Paper]](http://palm.seu.edu.cn/zhangml/files/AAAI'20b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#aaai20b)
 - Partial Label Learning with Batch Label Correction. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6132/5988)
 - Generative-Discriminative Complementary Learning. [[Paper]]((https://arxiv.org/pdf/1904.01612.pdf))
 - Complementary Auxiliary Classifiers for Label-Conditional Text Generation. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6346)
@@ -332,14 +371,14 @@ Leaderboard, To be continued...
 
 ------
 
-### ECML'20
+### ECML
 
 - Network Cooperation with Progressive Disambiguation for Partial Label Learning. [[Paper]](https://arxiv.org/pdf/2002.11919.pdf)
 - Online Partial Label Learning.
 
 ------
 
-### CIKM'20
+### CIKM
 
 - Learning with Noisy Partial Labels by Simultaneously Leveraging Global and Local Consistencies.
 
@@ -372,11 +411,6 @@ Leaderboard, To be continued...
 
 ------
 
-### ICCV'19
-
-- NLNL: Negative Learning for Noisy Labels. [[Paper]](https://arxiv.org/pdf/1908.07387.pdf)
-
-------
 
 ### IJCAI'19
 
