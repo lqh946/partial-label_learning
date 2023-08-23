@@ -178,38 +178,38 @@ Leaderboard, To be continued...
 
 ------
 
-### IJCAI'22
+### IJCAI
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Ambiguity-Induced Contrastive Learning for Instance-Dependent Partial Label Learning.
+- Ambiguity-Induced Contrastive Learning for Instance-Dependent Partial Label Learning. [[Paper]](https://www.ijcai.org/proceedings/2022/0502.pdf)[[Code]](https://github.com/AlphaXia/ABLE)
 - Boosting Multi-Label Image Classification with Complementary Parallel Self-Distillation. [[Paper]](https://arxiv.org/pdf/2205.10986.pdf)
 - Exploring Binary Classification Hidden within Partial Label Learning.
-- Deep Graph Matching for Partial Label Learning.
+- Deep Graph Matching for Partial Label Learning. [[Paper]](https://www.ijcai.org/proceedings/2022/0459.pdf)
 - Webly-Supervised Fine-Grained Recognition with Partial Label Learning.
 
 ------
 
-### AAAI'22
-
-- Structured Semantic Transfer for Multi-Label Recognition with Partial Labels
-- Semantic-Aware Representation Blending for Multi-Label Image Recognition with Partial Labels
-
-------
-
-### ICLR'22
+### ICLR
 
 - PiCO: Contrastive Label Disambiguation for Partial-Label Learning. [[Paper]](https://arxiv.org/pdf/2201.08984.pdf)[[Code]](https://github.com/hbzju/PiCO)
 - Exploiting Class Activation Value for Partial-Label Learning. [[Paper]](https://openreview.net/pdf?id=qqdXHUGec9h)[[Code]](https://github.com/Ferenas/CAVL)
 
 ------
 
+### NeurlPS
+
+- Solar: Sinkhorn label refinery for imbalanced partial-label learning. [[Paper]](https://arxiv.org/abs/2209.10365#:~:text=We%20subsequently%20propose%20SoLar%2C%20a%20novel%20Optimal%20Transport-based,long-tailed%20class%20prior%20distribution%20under%20the%20PLL%20setup.)[[Code]](https://github.com/hbzju/SoLar)
+- Adversarial Training with Complementary Labels: On the Benefit of Gradually Informative Attacks. [[Paper]](https://xuan129.github.io/Homepage/paper/TKDD22a.pdf)
+
+------
+
 ### Journal
 
-- **[TPAMI]** [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Adaptive graph guided disambiguation for partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b.pdf)[[Supplement]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b-Supplement.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tpami21b)
+- **[TPAMI]** (http://palm.seu.edu.cn/) Adaptive graph guided disambiguation for partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b.pdf)[[Supplement]](http://palm.seu.edu.cn/zhangml/files/TPAMI'21b-Supplement.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tpami21b)
 - **[TPAMI]** Deep Partial Multi-View Learning.
-- **[TKDD]** [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Disambiguation enabled linear discriminant analysis for partial label dimensionality reduction. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TKDD'21b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tkdd21b)
+- **[TKDD]** (http://palm.seu.edu.cn/) Disambiguation enabled linear discriminant analysis for partial label dimensionality reduction. [[Paper]](http://palm.seu.edu.cn/zhangml/files/TKDD'21b.pdf)[[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#tkdd21b)
 - **[TNNLS]** Biased Complementary-Label Learning Without True Labels.
 - **[Pattern Recognition]** Multi-Complementary and Unlabeled Learning for Arbitrary Losses and Models.
-- **[Machine Learning]** [[**SEU PALM Lab**]](http://palm.seu.edu.cn/)Partial label learning with emerging new labels.
+- **[Machine Learning]** (http://palm.seu.edu.cn/)Partial label learning with emerging new labels.
 - **[AI]** Distributed Semi-supervised Partial Label Learning Over Networks.
 - [**Neurocomputing**] Learning with Proper Partial Labels.
 - **[Information Sciences]** Dlsa: Semi-supervised partial label learning via dependence-maximized label set assignment.
