@@ -151,29 +151,30 @@ Leaderboard, To be continued...
 
 ### AAAI
 
-- Structured semantic transfer for multi-label recognition with partial labels.[[Paper]]([2112.10941] Structured Semantic Transfer for Multi-Label Recognition with Partial Labels (arxiv.org))[[Code]](HCPLab-SYSU/HCP-MLR-PL: Multi-label Image Recognition with Partial Labels (AAAI 2022) (github.com))
+- Structured semantic transfer for multi-label recognition with partial labels.[[Paper]](https://arxiv.org/abs/2112.10941)[[Code]](https://github.com/HCPLab-SYSU/HCP-MLR-PL)
 - Semantic-aware representation blending for multi-label image recognition with partial labels.[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20105/19864)
 
 ------
 
-### KDD'22
+### ACM
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Submodular feature selection for partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/KDD'22a.pdf) [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#kdd22a)
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Partial label learning with discriminative augmentation.
-- Partial-Label Learning with Semantic Label Representations.
-
-------
-
-### ICML'22
-
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Revisiting consistency regularization for deep partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf) [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml22a)
-- Partial Label Learning via Label Influence Function.
+- Partial label learning with semantic label representations. [[Paper]](https://arxiv.org/abs/2112.10941) 
+- Partial label learning with discrimination augmentation. [[Paper]](https://wwangwitsel.github.io/papers/wang_kdd22.pdf)
+- Submodular feature selection for partial label learning. [[Paper]](https://www.kdd.org/kdd2022/paperRT.htmlf)
+- Multi-task manifold learning for partial label learning. [[Paper]](https://dl.acm.org/doi/10.1016/j.ins.2022.04.044)
 
 ------
 
-### CVPR'22
+### ECCV
 
-- Multi-label classification with partial annotations using class-aware selective loss
+- Plmcl: Partial-label momentum curriculum learning for multi-label image classification. [[Paper]](https://arxiv.org/pdf/2208.09999.pdf)
+
+------
+
+### ICML
+
+- Partial Label Learning via Label Influence Function. [[Paper]](https://proceedings.mlr.press/v162/gong22c/gong22c.pdf)
+- Revisiting consistency regularization for deep partial label learning. [[Paper]](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf)
 
 ------
 
