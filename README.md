@@ -41,51 +41,58 @@ Leaderboard, To be continued...
 
 ### CVPR'23
 
-- Towards Effective Visual Representations for Partial-Label Learning.
+- Towards Effective Visual Representations for Partial-Label Learning. [[Paper]](https://paperswithcode.com/paper/towards-effective-visual-representations-for)[[Code]](https://github.com/alphaxia/papi)
 
 ------
 
-### AAAI
+### AAAI'23
 
 - Structured semantic transfer for multi-label recognition with partial labels.
+- Partial-Label Regression. [[Paper]](http://palm.seu.edu.cn/zhangml/)[[Code]](http://palm.seu.edu.cn/zhangml/)
+
+------
+
+### ACL'23
+
+- A Confidence-based Partial Label Learning Model for Crowd-Annotated Named Entity Recognition. [[Paper]](https://paperswithcode.com/paper/a-confidence-based-partial-label-learning)[[Code]](https://github.com/LemXiong/CPLL)
+- Superpixelwise Low-Rank Approximation-Based Partial Label Learning for Hyperspectral Image Classification. [[Paper]](https://paperswithcode.com/paper/superpixelwise-low-rank-approximation-based)[[Code]](https://github.com/sjyang8/SLAP)
 
 ------
 
 ### KDD'23
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Complementary Classifier Induced Partial Label Learning.
+- Complementary Classifier Induced Partial Label Learning. [[Paper]](https://paperswithcode.com/paper/complementary-classifier-induced-partial)[[Code]](https://github.com/chongjie-si/pl-cl)
 
 ------
 
 ### IJCAI'23
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Unbiased risk estimator to multi-labeled complementary label learning.
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Unreliable Partial Label Learning with Recursive Separation.
+- Unbiased risk estimator to multi-labeled complementary label learning.
+- Unreliable Partial Label Learning with Recursive Separation. [[Paper]](https://arxiv.org/abs/2302.09891/)
 - Deep Partial Multi-Label Learning with Graph Disambiguation.
 
 ------
 
 ### ICML'23
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Progressive Purification for Instance-Dependent Partial Label Learning.
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) FREDIS: A Fusion Framework of Refinement and Disambiguation for Unreliable Partial Label Learning.
-
-------
-
-### AAAI'23
-
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Can Label-Specific Feature Help Partial-Label Learning?
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Partial-Label Regression.
-- Learning with Partial Labels from Semi-supervised Perspective.
+- Progressive Purification for Instance-Dependent Partial Label Learning.
+- FREDIS: A Fusion Framework of Refinement and Disambiguation for Unreliable Partial Label Learning.
 
 ------
 
 ### ICLR'23
 
-- Long-Tailed Partial Label Learning via Dynamic Rebalancing.
+- Long-Tailed Partial Label Learning via Dynamic Rebalancing. [[Paper]](https://arxiv.org/abs/2302.05080)[[Code]](https://github.com/mediabrain-sjtu/records-ltpll)
 - Partial Label Unsupervised Domain Adaptation with Class-Prototype Alignment.
 - Mutual Partial Label Learning with Competitive Label Noise.
-- [[**SEU PALM Lab**] ](http://palm.seu.edu.cn/)Decompositional Generation Process for Instance-Dependent Partial Label Learning.
+- Decompositional Generation Process for Instance-Dependent Partial Label Learning.
+
+------
+
+### IEEE'23
+
+- Partial Label Learning for Emotion Recognition from EEG. [[Paper]](https://arxiv.org/pdf/2302.13170v1.pdf)[[Code]](https://github.com/guangyizhangbci/pll-emotion-eeg)
+- On the Robustness of Average Losses for Partial-Label Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10122995)
 
 ------
 
@@ -114,7 +121,7 @@ Leaderboard, To be continued...
 - Learning from Stochastic Labels.
 - Rethinking Precision of Pseudo Label: Test-Time Adaptation via Complementary Learning.
 - Towards Mitigating the Problem of Insufficient and Ambiguous Supervision in Online Crowdsourcing Annotation.
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Learning From Biased Soft Labels.
+- Learning From Biased Soft Labels.
 - Boosting Semi-Supervised Learning with Contrastive Complementary Labeling.
 - Active Learning with Partial Labels.
 - Partial Label Learning for Emotion Recognition from EEG
@@ -135,11 +142,11 @@ Leaderboard, To be continued...
 ### Journal
 
 - **[TPAMI]** A Unifying Probabilistic Framework for Partially Labeled Data Learning.
-- **[TPAMI]** [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) On the Robustness of Average Losses for Partial-Label Learning.
+- **[TPAMI]** On the Robustness of Average Losses for Partial-Label Learning.
 - **[TPAMI]** CMW-Net: Learning a Class-Aware Sample Weighting Mapping for Robust Deep Learning.
 - **[Pattern Recognition]** GraphDPI: Partial label disambiguation by graph representation learning via mutual information maximization.
 - **[Neural Networks]** Partial label learning: Taxonomy, analysis and outlook.
-- **[Science China Information Sciences]** [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Multi-Instance Partial-Label Learning: Towards Exploiting Dual Inexact Supervision.
+- **[Science China Information Sciences]** Multi-Instance Partial-Label Learning: Towards Exploiting Dual Inexact Supervision.
 
 ------
 
