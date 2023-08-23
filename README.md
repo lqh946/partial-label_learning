@@ -41,7 +41,13 @@ Leaderboard, To be continued...
 
 ### CVPR'23
 
-- [[**SEU PALM Lab**]](http://palm.seu.edu.cn/) Towards Effective Visual Representations for Partial-Label Learning.
+- Towards Effective Visual Representations for Partial-Label Learning.
+
+------
+
+### AAAI
+
+- Structured semantic transfer for multi-label recognition with partial labels.
 
 ------
 
@@ -143,10 +149,10 @@ Leaderboard, To be continued...
 
 ------
 
-### NeurIPS'22
+### AAAI
 
-- SoLar: Sinkhorn Label Refinery for Imbalanced Partial-Label Learning.
-- Adversarial Training with Complementary Labels: On the Benefit of Gradually Informative Attacks.
+- Structured semantic transfer for multi-label recognition with partial labels.[[Paper]]([2112.10941] Structured Semantic Transfer for Multi-Label Recognition with Partial Labels (arxiv.org))[[Code]](HCPLab-SYSU/HCP-MLR-PL: Multi-label Image Recognition with Partial Labels (AAAI 2022) (github.com))
+- Semantic-aware representation blending for multi-label image recognition with partial labels.[[Paper]]([[2112.10941] Structured Semantic Transfer for Multi-Label Recognition with Partial Labels (arxiv.org)](https://ojs.aaai.org/index.php/AAAI/article/download/20105/19864))
 
 ------
 
