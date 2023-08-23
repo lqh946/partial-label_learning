@@ -152,7 +152,7 @@ Leaderboard, To be continued...
 ### AAAI
 
 - Structured semantic transfer for multi-label recognition with partial labels.[[Paper]]([2112.10941] Structured Semantic Transfer for Multi-Label Recognition with Partial Labels (arxiv.org))[[Code]](HCPLab-SYSU/HCP-MLR-PL: Multi-label Image Recognition with Partial Labels (AAAI 2022) (github.com))
-- Semantic-aware representation blending for multi-label image recognition with partial labels.[[Paper]]([[2112.10941] Structured Semantic Transfer for Multi-Label Recognition with Partial Labels (arxiv.org)](https://ojs.aaai.org/index.php/AAAI/article/download/20105/19864))
+- Semantic-aware representation blending for multi-label image recognition with partial labels.[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20105/19864)
 
 ------
 
