@@ -41,7 +41,7 @@ Leaderboard, To be continued...
 
 ### CVPR'23
 
-- Towards Effective Visual Representations for Partial-Label Learning. [[Paper]](https://paperswithcode.com/paper/towards-effective-visual-representations-for)[[Code]](https://github.com/alphaxia/papi)
+- Towards Effective Visual Representations for Partial-Label Learning. [[Paper]](https://arxiv.org/pdf/2305.06080v1.pdf)[[Code]](https://github.com/alphaxia/papi)
 
 ------
 
